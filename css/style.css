@@ -18,7 +18,7 @@ body{
   width: 100vw;
 }
 
-.skyline .nome{
+.nome{
   position: absolute;
   top:50%;
   left:50%;
@@ -33,7 +33,7 @@ img{
 }
 
 /* Maschera di Opacità sopra le immagini */
-.skyline .layover{
+.layover{
   position: absolute;
   top: 0;
   left: 0;
