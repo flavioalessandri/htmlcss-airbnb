@@ -7,17 +7,17 @@
 }
 
 body{
-  background-color: blue;
+  /* background-color: blue; */
   font-size: 12vw;
   font-family: 'Jost', sans-serif;
   color: white;
 }
 
 .contenitore{
-  background-color: red;
+  /* background-color: red; */
   position: relative;
-  width: 100vw;
-  height: 300px;
+  width: 100%;
+  height: 100vh;
 }
 
 .nome-citta{
