@@ -40,21 +40,21 @@ body{
 
 .immagine01{
   /* background-color: green; */
-  background-image: url("../img/london1400x900.jpg");
+  background-image: url("../img/london.jpg");
   background-size: cover;
   background-position: center;
 }
 
 .immagine02{
   /* background-color: green; */
-  background-image: url("../img/rome1400x900.jpg");
+  background-image: url("../img/rome_high.jpg");
   background-size: cover;
   background-position: center;
 }
 
 .immagine03{
   /* background-color: green; */
-  background-image: url("../img/tokyo1400x900.jpg");
+  background-image: url("../img/newyork.jpg");
   background-size: cover;
   background-position: center;
 }
